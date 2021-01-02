@@ -2808,3 +2808,8 @@ border: 3px solid whitesmoke;
 .cus-label{
   color: grey;
 }
+.logo-size{
+  width: 300px;
+  margin-top: -40%;
+  margin-left: -22%;
+}
